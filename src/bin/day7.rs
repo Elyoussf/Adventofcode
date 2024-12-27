@@ -46,3 +46,4 @@ fn is_valid(expected_result : i64 , values : &Vec<i64>,current_res :i64,index :u
     return plus || mul;
 
 }
+
